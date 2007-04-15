@@ -1,0 +1,6 @@
+Revision history for Perl extension Bundle::Encode.
+
+0.01  Sun Apr 15 08:56:20 2007
+	- original version; created by h2xs 1.23 with options
+		-AXcfn Bundle::Encode
+
