@@ -1,5 +1,7 @@
-Bundle-Encode version 0.01
+Bundle-Encode version 0.02
 ==========================
+
+
 
 INSTALLATION
 
@@ -10,8 +12,13 @@ To install this module type the following:
    make test
    make install
 
+DEPENDENCIES
+
+none
 
 COPYRIGHT AND LICENCE
+
+Put the correct copyright and licence information here.
 
 Copyright (C) 2007 by Kevin W. Henwood
 
