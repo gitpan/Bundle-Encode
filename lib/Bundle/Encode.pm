@@ -1,12 +1,11 @@
 package Bundle::Encode;
 
 
-$VERSION = '0.02';
+our $VERSION = '0.03';
 
 
 1;
 __END__
-
 
 =head1 NAME
 
@@ -14,10 +13,10 @@ Bundle::Encode - A bundle to install Encode modules and dependencies
 
 =head1 SYNOPSIS
 
-  C<perl -MCPAN -e 'install Bundle::Encode'>
+  perl -MCPAN -e 'install Bundle::Encode'
   
 
-=head1 Contents
+=head1 CONTENTS
 
 Text::Iconv
 
