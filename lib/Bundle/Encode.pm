@@ -1,7 +1,7 @@
 package Bundle::Encode;
 
 
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 
 1;
@@ -17,6 +17,42 @@ Bundle::Encode - A bundle to install Encode modules and dependencies
   
 
 =head1 CONTENTS
+
+HTML::Parser
+
+HTML::Entities
+
+HTML::Entities::Numbered
+
+HTML::Entities::Latin2
+
+Template::Stash::HTML::Entities
+
+HTML::Entities::Interpolate
+
+MathML::Entities
+
+MathML::Entities::Approximate
+
+HTML::FromANSI
+
+Lingua::UK::Translit
+
+MHonArc::Encode
+
+Alvis::Convert
+
+MIME::Charset
+
+MIME::Tools
+
+Mail::Header
+
+Mail::Internet
+
+Mail::Field
+
+IO::Stringy
 
 Text::Iconv
 
@@ -35,6 +71,8 @@ CGI
 ExtUtils::CBuilder
 
 XML::Parser::Expat
+
+XML::XPathScript
 
 IO::File
 
@@ -62,11 +100,13 @@ FindBin
 
 Config
 
+Test
+
 Test::Builder
 
 Test::Base
 
-HTML::Entities::Pictogram
+HTML::Entities::ImodePictogram
 
 XSLoader
 
